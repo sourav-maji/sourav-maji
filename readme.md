@@ -92,7 +92,7 @@ Welcome to my GitHub profile! I'm a passionate developer from India with a stron
 - **Version Control:** Git, GitHub
 - **Methodologies:** Agile, Scrum, Test-Driven Development
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 - 🤖 Advance AI integration in development workflows and automation tools
 - 🚀 Contribute to more open-source projects and developer communities
