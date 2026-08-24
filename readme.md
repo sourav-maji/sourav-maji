@@ -48,17 +48,17 @@ Welcome to my GitHub profile! I'm a passionate developer from India with a stron
 ## 📈 Featured Projects
 
 ### 🤖 [Auto Documentation Generator](https://github.com/sourav-maji/auto-doc-generator)
-**AI-Powered Documentation Assistant** - A Node.js backend template that leverages Google Gemini AI to automatically generate and update technical documentation based on Git changes. Perfect for maintaining up-to-date project docs with zero manual effort.
+**AI-Powered Documentation Assistant** - A Node.js backend template that leverages Google Gemini AI to automatically generate and update technical documentation based on Git changes. Perfect for m[...]
 
 **Tech Stack:** Node.js, Express, Google Gemini AI, Git Integration
 
 ### 🧪 [API Automation Framework](https://github.com/sourav-maji/ApiAutomationFrameWork)
-**Comprehensive Testing Solution** - A modular API test automation framework built with Node.js, Jest, and Axios. Features JWT authentication, controller-based test structure, dynamic payload generation, and HTML reporting with CI/CD integration.
+**Comprehensive Testing Solution** - A modular API test automation framework built with Node.js, Jest, and Axios. Features JWT authentication, controller-based test structure, dynamic payload gene[...]
 
 **Tech Stack:** Node.js, Jest, Axios, HTML Reporting, GitHub Actions
 
 ### 🚀 [Backend Starter Template](https://github.com/sourav-maji/backend-starter-template)
-**Production-Ready Backend Boilerplate** - A robust, modular Node.js backend template with JWT authentication, role-based access control, MongoDB integration, comprehensive logging, and testing support. Built with ES6 modules and industry best practices.
+**Production-Ready Backend Boilerplate** - A robust, modular Node.js backend template with JWT authentication, role-based access control, MongoDB integration, comprehensive logging, and testing su[...]
 
 **Tech Stack:** Node.js, Express, MongoDB, JWT, Jest, Docker, Winston
 
@@ -70,11 +70,11 @@ Welcome to my GitHub profile! I'm a passionate developer from India with a stron
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourav-maji&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sourav-maji&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-maji&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-maji&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <div align="center">
