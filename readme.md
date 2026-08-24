@@ -70,11 +70,11 @@ Welcome to my GitHub profile! I'm a passionate developer from India with a stron
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourav-maji&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sourav-maji&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-maji&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-maji&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <div align="center">
